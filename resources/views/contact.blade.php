@@ -24,7 +24,7 @@
 <main>
 	<aside class = "left">
 		  <h3>
-        CONTACT ME
+        CONTACT MEee
       </h3>
     
     <section class="contact" align="center">
