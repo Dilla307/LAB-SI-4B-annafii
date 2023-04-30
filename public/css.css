@@ -1,0 +1,154 @@
+header{
+    background-repeat: round;
+    background-color : brown;
+    color: blanchedalmond;
+    padding: 18px;
+    background-size: 700PX;
+    text-align: center;
+    font-size: 30px;
+}
+body{
+  background-color: whitesmoke;
+}
+.body1 {
+ 	max-width: 1080px;
+    margin: 20px auto;
+    background-color: sandybrown;
+    padding: auto;
+    overflow: hidden;
+    border: 3px solid wheat;
+}
+h3{
+	font-family: initial;
+	font-size: 25px;
+	background-color: wheat;
+}
+.navigasi1 ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: initial;
+    font-size: 20px;
+    font-weight: bold;
+    background-color:rgba(255, 255, 255, 0.5);
+    border-radius: 2px;
+}
+
+.navigasi1 li a 
+{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 30px;
+    text-decoration: none;
+    float: right ;
+    text-align: center;
+    border: 2px solid brown;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin: 10px;
+}
+ 
+.navigasi1 li a:hover 
+{
+    background-color:whitesmoke;
+    transition-duration: 0,3s;
+    border: 3px solid black;
+    color : brown;
+}
+.active{
+	background-color: sandybrown;
+	color: navajowhite;
+}
+
+.left{
+	background-color: floralwhite;
+	border: 3px solid brown;
+	margin-right: auto;
+
+}
+.left p{
+	padding: 30px;
+	font-size: 20px;
+	margin-right: 10%;
+}
+.anna {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%; 
+    display:block; 
+    height: auto;
+    margin-bottom:35px;
+    display:inline-flex;
+}
+img {
+    width: 250px;
+    height: 50px;
+}
+footer{
+    clear: both;
+    background-color: wheat;
+    color: brown;
+    padding: 25px;
+    text-align: center;
+    font-family: inherit;
+}
+.tabel{
+  margin-bottom : 20px;
+}
+.tabel td{
+  padding : 20px;
+}
+main.p{
+	font-size: 20px;
+}
+.anna2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%; 
+    display:block; 
+    height: auto;
+    margin-left:165px;
+}
+.isi{
+  position: absolute;
+  right: 20%;
+  top: 376px;
+  width: 500px;
+  height:394px;
+  border: 1px solid #000;
+}
+.pendidikan li{
+  margin-left:10px;
+  font-family : serif;
+  font-size:18px;
+  line-height:28px;
+}
+.bawah{
+  position: absolute;
+  right: 14%;
+  top: 846px;
+  width: 500px;
+  height:441px;
+  
+}
+.table{
+  height:470px;
+}
+.tabel2 {
+  margin-top : 47px;
+  margin-left :75px;
+}
+.tabel2 td{
+  padding : 10px;
+  
+.kemampuan{
+  font-family : sans-serif;
+  font-size : 25px;
+  margin-left : 30px;
+}
